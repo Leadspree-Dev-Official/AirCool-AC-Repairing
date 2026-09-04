@@ -1,0 +1,6 @@
+{
+  "name": "AirCool AC Repairing",
+  "description": "Professional Cooling & Heating Service, AC Installation, Repair, Deep Cleaning, and Maintenance by AirCool AC Repairing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
